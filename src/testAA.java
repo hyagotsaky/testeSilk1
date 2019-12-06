@@ -22,6 +22,7 @@ public class testAA {
 		desktop.<DomElement>find("g1_globo_com.BrowserWindow.28º").click();
 		DomElement _28º = desktop.<DomElement>find("g1_globo_com.BrowserWindow.28º");
 		Assert.assertEquals("28º", _28º.getText());
+		
 	}
 
 }
