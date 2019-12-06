@@ -1,0 +1,8 @@
+<ObjectMap version="1">
+  <ObjectMapEntry id="g1_globo_com" locator="//BrowserApplication" urlPattern="*g1.globo.com*">
+    <ObjectMapEntry id="BrowserWindow" locator="//BrowserWindow">
+      <ObjectMapEntry id="28º" locator="//SPAN[@textContents=&apos;28º&apos;]"/>
+      <ObjectMapEntry id="post-previsao-do-tem" locator="//DIV[@class=&apos;post-previsao-do-tem*&apos;][4]/DIV[@class=&apos;post-previsao-do-tem*&apos;]"/>
+    </ObjectMapEntry>
+  </ObjectMapEntry>
+</ObjectMap>
